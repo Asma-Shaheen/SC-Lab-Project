@@ -1,0 +1,17 @@
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\SalaryManagementSystem.exe
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\SalaryManagementSystem.pdb
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\SalaryManagementSystem.exe.config
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Arsh Fatima\Desktop\UnitTestProject\obj\Debug\UnitTestProject.pdb
